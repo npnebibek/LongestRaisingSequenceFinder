@@ -1,0 +1,18 @@
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.deps.json
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.dll
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.pdb
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csprojAssemblyReference.cache
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.CoreCompileInputs.cache
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfoInputs.cache
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfo.cs
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.dll
+C:\Users\BIBEK\Downloads\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.pdb
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.deps.json
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.dll
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.pdb
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csprojAssemblyReference.cache
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfoInputs.cache
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfo.cs
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.CoreCompileInputs.cache
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.dll
+D:\MyProjects\longraingsequence\LongestRaisingSequenceFinder\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.pdb

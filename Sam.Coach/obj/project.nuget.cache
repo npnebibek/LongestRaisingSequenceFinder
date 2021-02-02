@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZK18S7Ubu2tpqEQbs2Th2PP15+492m1clApxvrQhC/tQbKWqCNIzGX5+WIF5W1fGHY7p94QI8Rp6QQXYN4/WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BIBEK\\Desktop\\LongestRaisingSequenceCheck\\LongestRaisingSequenceFinder\\Sam.Coach\\Sam.Coach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BIBEK\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\BIBEK\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
